@@ -14,5 +14,5 @@ This is a test post.
 this is some R code:
 
 ``` {r}
-x <- c(1,2,3)
+head(airquality)
 ```
