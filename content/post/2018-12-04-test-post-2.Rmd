@@ -1,0 +1,18 @@
+---
+title: test post 2
+author: Katie M. Brown
+date: '2018-12-04'
+slug: test-post-2
+categories: []
+tags: []
+---
+
+# Testing 123
+
+This is a test post.
+
+this is some R code:
+
+``` {r}
+x <- c(1,2,3)
+```
